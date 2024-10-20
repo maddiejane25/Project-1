@@ -13,6 +13,21 @@ This project focuses on the analysis of an Alzheimer's dataset to identify trend
 The Alzheimer's dataset contains medical information from 2,149 patients and includes 35 columns. It covers a range of factors that may contribute to Alzheimer's Disease, including demographic details, lifestyle factors, medical history, and reported symptoms.
 
 ### Instructions to Run the Code
+1. Clone the Repository
+* Open terminal on the local machine and run the following command:
+  
+```git clone url```
+
+2. Set Up Environment
+* Make sure Python is installed on the computer
+* Open terminal on the local machine and run the following commands:
+
+```cd repo folder```
+
+```pip install pandas numpy matplotlib seaborn scikit-learn```
+
+3. Run the Code
+* Open the project folder in an IDE (Jupyter Notebook, Google Colab or VSCode)
 
 ### What is Alzheimer’s?
 According to the Mayo Clinic, Alzheimer's disease is a brain disorder that gets worse over time. It's characterized by changes in the brain that lead to deposits of certain proteins. Alzheimer's disease causes the brain to shrink and brain cells to eventually die.
