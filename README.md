@@ -16,15 +16,15 @@ The Alzheimer's dataset contains medical information from 2,149 patients and inc
 1. Clone the Repository
 * Open terminal on the local machine and run the following command:
   
-```git clone url```
+```git clone https://github.com/maddiejane25/Project-1.git```
 
 2. Set Up Environment
 * Make sure Python is installed on the computer
 * Open terminal on the local machine and run the following commands:
 
-```cd repo folder```
+```cd Project-1```
 
-```pip install pandas numpy matplotlib seaborn scikit-learn```
+```pip install pandas numpy matplotlib seaborn```
 
 3. Run the Code
 * Open the project folder in an IDE (Jupyter Notebook, Google Colab or VSCode)
