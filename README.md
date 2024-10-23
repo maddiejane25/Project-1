@@ -32,21 +32,42 @@ The Alzheimer's dataset contains medical information from 2,149 patients and inc
 ### What is Alzheimer’s?
 According to the Mayo Clinic, Alzheimer's disease is a brain disorder that gets worse over time. It's characterized by changes in the brain that lead to deposits of certain proteins. Alzheimer's disease causes the brain to shrink and brain cells to eventually die.
 
-### Hypothesis
+### More Background:
+- Dementia is an umbrella term used to describe different brain disorders that affect memory, thinking, behavior and emotion
+- Alzheimer’s disease is the most common cause of dementia
+    - The buildup of a protein called beta-amyloid outside of brain cells and tangled strands of a protein called tau inside these cells are key features of the condition. This is often linked to the death of brain cells and harm to brain       
+      tissue. In addition, there can be inflammation and shrinkage of the brain tissue
+- There is a spectrum of Alzheimer’s, ranging from asymptomatic to severe
+- In the US alone, there is nearly 7 million people living with Alzheimers
+- Although the medical community is starting to understand more about the disease, there is currently no known prevention or cure
+- Early detection is key to having the most options and preventing furthering of the disease
 
-### Research Questions
-1. **What factors most significantly affect the risk of Alzheimer's disease?**
-The analysis indicates 
-2. **Which health conditions are most strongly associated with Alzheimer's?** 
-Answer
-3. **What factors predispose individuals to Alzheimer's?** 
-Answer
-4. **Which lifestyle factors are most influential in the development of Alzheimer's?** 
-Answer
-5. **Does educational level have an impact on Alzheimer's risk?**
-Answer
-6. **Which patients exhibit Alzheimer's symptoms and are not diagnosed?**
-Answer 
+### Problem Statement
+- The cause of Alzheimer’s is still largely unknown
+- There is a growing elderly population - in 2022, almost 58 million people were over 65, and all of the Baby Boomer population will be over 65 by 2030.
+- Almost 62% of healthcare practitioners worldwide incorrectly think that dementia is part of normal ageing
+- There is no known definitive cause for Alzheimer’s
+
+### Hypothesis
+Our initial thought is, that even though there is no definitive cause for why people get Alzheimer's, many different factors like demographics, lifestyle, medical history, etc. would have an impact in an individual getting Alzheimer's disease. For example, we think people that are diagnosed with Alzheimer's disease would have more unhealthy lifestyle and have worse medical history.  
+
+### Research Findings
+
+1. **General Statistics**
+**Dataset includes:** 2149 patients | 35 categories
+*Note: Data covers a range of factors that may contribute to Alzhiemers Disease*
+
+2. **What factors most significantly affect the risk of Alzheimer's disease?**
+We broke down the data a few different ways. Mostly we compared and analyzed the data around patients that were diagnosed with Alzheimer's Disease. After looking at the different results, there were not any factors that stood out to be the most significant factor that affects the risk Alzheimer's disease. One that we could possibly point out is when you compare the age of patients there is a significant spike when the patients hit around the age of 90. 
+
+3. **What were the most surprising answers/stats from the research?**
+I think the lack of impact that the 35 categories had on affecting the risk of the patient getting Alzheimer's Disease was surprising to all of us. We are considering that the categories within the data are were not the best ones to identify what affects the risks of getting Alzhiemer's. However, even when you take a look at lifestyle section you can see that average scores and levels between each category (alc consumption lvl, sleep & diet quality score, physical activity score, bmi levels, etc) were pretty much the same. If anything, the scores and levels were slightly leaning towards the opposite of what we would have guessed. 
+
+4. **Were there any answers/stats that supported our initial hypothesis?** 
+No. Maybe beside the patients reaching the age of 90 being much higher than any other age of patients diagnosed with Alzheimers there were not any other answers or stats within the data that supported or was consistent with our initial thoughts/hypothesis.
+
+5. **Is the data consistent to what the general belief on what causes Alzheimer's diesease?** 
+No (Going to look at o
 
 ### Findings/Results 
 
