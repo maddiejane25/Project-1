@@ -67,12 +67,14 @@ We broke down the data a few different ways. Mostly we compared and analyzed the
 5. **What were the most surprising answers/stats from the research?**
 I think the lack of impact that the 35 categories had on affecting the risk of the patient getting Alzheimer's Disease was surprising to all of us. We are considering that the categories within the data are were not the best ones to identify what affects the risks of getting Alzhiemer's. However, even when you take a look at lifestyle section you can see that average scores and levels between each category (alc consumption lvl, sleep & diet quality score, physical activity score, bmi levels, etc) were pretty much the same. If anything, the scores and levels were slightly leaning towards the opposite of what we would have guessed. 
 
-![fanily history](https://github.com/user-attachments/assets/0eccc7da-468e-4dbc-a6d2-fa23fc98101e)
+![download (2)](https://github.com/user-attachments/assets/b3e84aec-3a0f-4ddd-b8f7-c897af8a95a9)
 
 6. **Were there any answers/stats that supported our initial hypothesis?** 
 No. Maybe beside the patients reaching the age of 90 being much higher than any other age of patients diagnosed with Alzheimers there were not any other answers or stats within the data that supported or was consistent with our initial thoughts/hypothesis.
 
-7. **Is the data consistent to what the general belief is on what causes Alzheimer's diesease?** 
+![heatmap](https://github.com/user-attachments/assets/b45675ec-aa52-4026-9cf0-b4297cd088e8)
+
+8. **Is the data consistent to what the general belief is on what causes Alzheimer's diesease?** 
 No it is not consistent to what the general belief and what other studies show about what can increase or decrease the risk of getting Alzheimer's Disease. For example: A population-based study of 1,500 people on aging and dementia in Finland found that those who engaged in leisure-time physical activity at least twice a week through middle age, carried half the risk of developing dementia and a 60 percent lower risk of developing Alzheimer’s than did those who remained sedentary in their midlife.
 
 ![PA](https://github.com/user-attachments/assets/9eedf494-fbb1-4857-a6f9-416a31aaedb2)
