@@ -66,7 +66,7 @@ I think the lack of impact that the 35 categories had on affecting the risk of t
 4. **Were there any answers/stats that supported our initial hypothesis?** 
 No. Maybe beside the patients reaching the age of 90 being much higher than any other age of patients diagnosed with Alzheimers there were not any other answers or stats within the data that supported or was consistent with our initial thoughts/hypothesis.
 
-5. **Is the data consistent to what the general belief on what causes Alzheimer's diesease?** 
+5. **Is the data consistent to what the general belief is on what causes Alzheimer's diesease?** 
 No it is not consistent to what the general belief and what other studies show about what can increase or decrease the risk of getting Alzheimer's Disease. For example: A population-based study of 1,500 people on aging and dementia in Finland found that those who engaged in leisure-time physical activity at least twice a week through middle age, carried half the risk of developing dementia and a 60 percent lower risk of developing Alzheimer’s than did those who remained sedentary in their midlife.
 
 ### Conclusion
