@@ -102,6 +102,7 @@ https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/#:~:text
 https://www.alzint.org/about/dementia-facts-figures/
 https://www.alz.org/media/Documents/alzheimers-dementia-understanding-alzheimers-and-dementia_ts.pdf
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3207358/#:~:text=A%20population%2Dbased%20study%20of,those%20who%20remained%20sedentary%20in
+https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/what-are-signs-alzheimers-disease
 
 ### Link to presentation 
 https://docs.google.com/presentation/d/1Jso8WWEu9hQWXNIS7uPPgmhKFAz1belmoBMniuzeSSU/edit?usp=sharing
